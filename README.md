@@ -1,5 +1,6 @@
 # 💫 About Me:
-Software Engineer 👨🏻‍💻 <br>Computer Science student at ELTE🤵‍♂️ <br>Problem solver <br>Sport lover 🏃 <br>Unpredictable person !
+Software Engineer 👨🏻‍💻 
+<br>Computer Science student at ELTE🤵‍♂️ <br>Problem solver <br>Sport lover 🏃 <br>Unpredictable person !
 
 
 # 💻 Tech Stack:
